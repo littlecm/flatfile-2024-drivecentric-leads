@@ -1,6 +1,6 @@
 const blueprint = {
-  "name": "Leads",
-  "slug": "leads",
+  "name": "DriveCentric Leads",
+  "slug": "driveccentricleads",
   "fields": [
     {
       "key": "Customer",
